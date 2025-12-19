@@ -3,7 +3,6 @@ title: "Getting Started - 开始使用"
 description: "Learn how to use this blog framework. 学习如何使用这个博客框架。"
 pubDate: 2025-12-18
 tags: ["tutorial", "guide", "教程"]
-author: "Blog Author"
 ---
 
 # Getting Started 开始使用
