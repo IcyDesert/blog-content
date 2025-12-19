@@ -1,0 +1,11 @@
+[example-blog]
+name = "Example Blog"
+url = "https://example.com"
+avatar = "https://api.dicebear.com/7.x/avataaars/svg?seed=example"
+description = "这是一个示例友链 - An example friend link"
+
+[astro-docs]
+name = "Astro Docs"
+url = "https://docs.astro.build"
+avatar = "https://api.dicebear.com/7.x/avataaars/svg?seed=astro"
+description = "Astro 官方文档 - Official Astro documentation"

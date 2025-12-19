@@ -12,6 +12,6 @@ If you want to exchange links, please make sure your site meets the following co
 - 有一定的原创内容 Some original content
 - 网站可正常访问 Accessible website
 
-请向 [github/SoraShu/blog-content](https://github.com/SoraShu/blog-content) 提交一个 PR，添加你的友链信息到 `friends.json` 文件中。
+请向 [此仓库](https://github.com/SoraShu/blog-content) 提交一个 PR，添加你的友链信息到 `friends.toml` 文件中。
 
-Please submit a PR in [github/SoraShu/blog-content](https://github.com/SoraShu/blog-content) to add your friend link information to the `friends.json` file.
+Please submit a PR to [this repository](https://github.com/SoraShu/blog-content) to add your friend link information to the `friends.toml` file.
