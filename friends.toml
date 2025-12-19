@@ -1,0 +1,14 @@
+# [example-blog] # id, can't be the same as others
+# name = "Example Blog" # display name
+# url = "https://example.com" # link url
+# avatar should be an image url, svg/png/jpg/jpeg are all supported
+# avatar = "https://api.dicebear.com/7.x/avataaars/svg?seed=example"
+# description = "这是一个示例友链 - An example friend link" # display description
+###############################################################################
+
+[hitsz-osa]
+name = "HITSZ 开源技术协会"
+url = "https://osa.moe"
+avatar = "https://osa.moe/lug-pub-logo.21c1e9e2.svg"
+description = "哈尔滨工业大学（深圳）学生中的 Linux 用户和开源软件爱好者自发组建的学生社团。"
+
