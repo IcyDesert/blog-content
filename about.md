@@ -3,33 +3,53 @@
 # 此文件的内容将渲染到 /about 页面
 ---
 
-## 👋 你好！Hi there!
+## 我是谁？
 
-欢迎来到我的博客!
-Welcome to my blog!
+- [瑞典皇家理工学院(KTH)](https://www.kth.se/en)硕士在读，计算机科学专业。
+- 前[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/)本科生，计算机科学与技术专业。
+- [哈尔滨工业大学（深圳）开源技术协会(HITSZ OSA)](https://github.com/hitszosa)主要发起人及前核心成员、运维。
 
-## 📝 关于这个博客 About This Blog
+## 目前在做什么？
 
-这是一个使用 [Astro](https://astro.build) 和 [shadcn/ui](https://ui.shadcn.com) 构建的现代博客。
-This is a modern blog built with Astro and shadcn/ui.
+- 硕士论文项目，方向为：Privacy-Preserving Synthetic Code Generation, Benchmarking。
+- 学习 Rust/Go 语言，探索云原生技术栈。
 
-### ✨ 特性 Features
+## 我正在用
 
-- 🌓 暗色模式 Dark mode
-- 📱 响应式设计 Responsive design
-- 🏷️ 标签分类 Tag categorization
-- 📅 时间线归档 Timeline archive
-- 🔗 友情链接 Friend links
-- 📡 RSS 订阅 RSS subscription
-- 🔍 SEO 优化 SEO optimization
-- 🌏 中英文混排支持 Chinese-English mixed text support
+- 编辑器：VSCode + VScode Neovim 插件
+- 终端：WezTerm + Fish
+- 操作系统：
+    - 笔记本：MacOS
+    - 工作站：Arch Linux（开发）+ Windows 11（游戏）
+    - 家庭服务器：Arch Linux
+    - 托管服务器/VPS：Debian / NixOS
 
-## 📬 联系我 Contact
+## 联系我
 
-你可以通过页脚的社交链接联系我。
-You can reach me through the social links in the footer.
+通过本页面底部的社交媒体或电子邮件。
 
-## 📄 许可 License
+---
 
-除非另有说明，本站内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
-Unless otherwise noted, content on this site is licensed under CC BY-NC-SA 4.0.
+## Who am I?
+- Master's student in Computer Science at [KTH Royal Institute of Technology](https://www.kth.se/en).
+- Former undergraduate student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/), majoring in Computer Science and Technology.
+- Founder, former core member and ops of [HITSZ Open Source Association (HITSZ OSA)](https://github.com/hitszosa).
+
+## What am I doing?
+
+- Master's thesis project focusing on Privacy-Preserving Synthetic Code Generation and Benchmarking.
+- Learning Rust/Go and exploring cloud-native technology stacks.
+
+## What am I using?
+
+- Editor: VSCode + VScode Neovim extension
+- Terminal: WezTerm + Fish
+- Operating Systems:
+    - Laptop: MacOS
+    - Workstation: Arch Linux (development) + Windows 11 (gaming)
+    - Home Server: Arch Linux
+    - Hosted Servers/VPS: Debian / NixOS
+
+## Contact Me
+
+Reach out via social media or email at the bottom of this page.
