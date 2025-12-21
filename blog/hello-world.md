@@ -1,7 +1,7 @@
 ---
 title: "Hello World - 你好世界"
 description: "这是我的第一篇博客文章，欢迎来到我的博客！This is my first blog post, welcome to my blog!"
-pubDate: 2025-12-19
+pubDate: 2023-12-19
 tags: ["introduction", "blog", "中文"]
 ---
 
