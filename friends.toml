@@ -12,3 +12,33 @@ url = "https://osa.moe"
 avatar = "https://osa.moe/lug-pub-logo.21c1e9e2.svg"
 description = "哈尔滨工业大学（深圳）学生中的 Linux 用户和开源软件爱好者自发组建的学生社团。"
 
+[congjyu]
+name = "Rain Chen's Blog"
+url = "https://congjyu.github.io"
+avatar = "https://congjyu.github.io/favicon.ico"
+description = """「致瞬息萬變，及亙古不變」
+こんにちは！"""
+
+[jyi2ya]
+name = "jyi2ya 的博客"
+url = "https://jyi2ya.github.io"
+avatar = "https://jyi2ya.github.io/icon192.png"
+description = ""
+
+[capoo-fan]
+name = "潜伏"
+url = "https://capoo-fan.github.io/blog/"
+avatar = "https://capoo-fan.github.io/blog/img/avatar_hu878410226d6173bc342aa09895a2652c_10215_288x288_fill_q96_box_center.jpg"
+description = "浮沉随浪，只记今朝"
+
+[vaalacat]
+name = "Vaala Cat"
+description = "Vaala Cat | 鲸喵"
+avatar = "https://vaala.cat/images/blog/avatar.png"
+url = "https://vaala.cat"
+
+[yinmo]
+name = "YinMo19's Blog"
+description = "Rust, ARM ASM, and Mac."
+avatar = "https://blog.yinmo19.top/avatar_hu_c2ee574778e617fe.png"
+url = "https://blog.yinmo19.top"
